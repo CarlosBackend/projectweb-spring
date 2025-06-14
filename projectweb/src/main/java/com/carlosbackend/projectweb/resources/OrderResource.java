@@ -1,6 +1,5 @@
 package com.carlosbackend.projectweb.resources;
 import com.carlosbackend.projectweb.entities.Order;
-import com.carlosbackend.projectweb.entities.User;
 
 import com.carlosbackend.projectweb.repositories.OrderRepository;
 import org.springframework.beans.factory.annotation.Autowired;
